@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jinxiichen.top/"/>
-  <updated>2018-11-26T04:13:55.201Z</updated>
+  <updated>2018-11-26T04:40:30.873Z</updated>
   <id>http://jinxiichen.top/</id>
   
   <author>
@@ -17,16 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Git + Hexo 搭建个人博客</title>
+    <title>Windows下基于Git + Hexo 搭建个人博客</title>
     <link href="http://jinxiichen.top/2018/11/26/Git-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://jinxiichen.top/2018/11/26/Git-Hexo-搭建个人博客/</id>
     <published>2018-11-26T04:13:55.000Z</published>
-    <updated>2018-11-26T04:13:55.201Z</updated>
+    <updated>2018-11-26T04:40:30.873Z</updated>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;参考文章：&lt;/p&gt;
+&lt;p&gt;(Windows下GitHub + Hexo搭建个人博客)[&lt;a href=&quot;https://www.jianshu.com/p/956c44c87fb1]&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.j
+      
+    
     </summary>
     
+      <category term="hexo教程" scheme="http://jinxiichen.top/categories/hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Git" scheme="http://jinxiichen.top/tags/Git/"/>
+    
+      <category term="Hexo" scheme="http://jinxiichen.top/tags/Hexo/"/>
+    
+      <category term="Blog" scheme="http://jinxiichen.top/tags/Blog/"/>
     
   </entry>
   
