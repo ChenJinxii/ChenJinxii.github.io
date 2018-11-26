@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jinxiichen.top/"/>
-  <updated>2018-11-26T04:50:48.570Z</updated>
+  <updated>2018-11-26T10:45:17.458Z</updated>
   <id>http://jinxiichen.top/</id>
   
   <author>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>Windows下基于Git + Hexo 搭建个人博客</title>
-    <link href="http://jinxiichen.top/2018/11/26/Git-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://jinxiichen.top/2018/11/26/Git-Hexo-搭建个人博客/</id>
+    <link href="http://jinxiichen.top/2018/11/26/Windows%E4%B8%8B%E5%9F%BA%E4%BA%8EGit%20+%20Hexo%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://jinxiichen.top/2018/11/26/Windows下基于Git + Hexo 搭建个人博客/</id>
     <published>2018-11-26T04:13:55.000Z</published>
-    <updated>2018-11-26T04:50:48.570Z</updated>
+    <updated>2018-11-26T10:45:17.458Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;参考文章：&lt;/p&gt;
-&lt;p&gt;(Windows下GitHub + Hexo搭建个人博客)[&lt;a href=&quot;https://www.jianshu.com/p/956c44c87fb1]&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.j
+        &lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;这一部分主要参考：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.jianshu.com/p/956c44c87f
       
     
     </summary>
@@ -49,7 +49,7 @@
     <link href="http://jinxiichen.top/2018/11/24/hello-world/"/>
     <id>http://jinxiichen.top/2018/11/24/hello-world/</id>
     <published>2018-11-24T13:10:54.934Z</published>
-    <updated>2018-11-24T13:10:54.934Z</updated>
+    <updated>2018-11-26T09:27:41.799Z</updated>
     
     <summary type="html">
     
