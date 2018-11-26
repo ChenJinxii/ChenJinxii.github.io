@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jinxiichen.top/"/>
-  <updated>2018-11-24T13:10:54.934Z</updated>
+  <updated>2018-11-26T04:13:55.201Z</updated>
   <id>http://jinxiichen.top/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git + Hexo 搭建个人博客</title>
+    <link href="http://jinxiichen.top/2018/11/26/Git-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://jinxiichen.top/2018/11/26/Git-Hexo-搭建个人博客/</id>
+    <published>2018-11-26T04:13:55.000Z</published>
+    <updated>2018-11-26T04:13:55.201Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
